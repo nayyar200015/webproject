@@ -35,7 +35,6 @@ const getInfo = async (event) => {
             city_Name.innerText = `Please enter the City name properly`;
             datahide.classList.add('data_hide');
         }
-
     }
 }
 
